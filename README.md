@@ -13,7 +13,10 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=1&pause=100000&color=1E2A4A&vCenter=true&repeat=false&width=320&height=44&lines=About+me" alt="About me"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=1&pause=100000&color=C7D2FE&vCenter=true&repeat=false&width=320&height=44&lines=About+me"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=1&pause=100000&color=1E2A4A&vCenter=true&repeat=false&width=320&height=44&lines=About+me" alt="About me"/>
+</picture>
 
 <table>
 <tr>
@@ -37,13 +40,19 @@ Today I build **detection tools** that read logs, spot attacks and map them to *
 </tr>
 </table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=1&pause=100000&color=1E2A4A&vCenter=true&repeat=false&width=320&height=44&lines=My+toolbox" alt="My toolbox"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=1&pause=100000&color=C7D2FE&vCenter=true&repeat=false&width=320&height=44&lines=My+toolbox"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=1&pause=100000&color=1E2A4A&vCenter=true&repeat=false&width=320&height=44&lines=My+toolbox" alt="My toolbox"/>
+</picture>
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,java,ts,nextjs,react,postgres,linux,bash,git,vscode&theme=light&perline=11" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=1&pause=100000&color=1E2A4A&vCenter=true&repeat=false&width=320&height=44&lines=Things+I've+built" alt="Things I've built"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=1&pause=100000&color=C7D2FE&vCenter=true&repeat=false&width=320&height=44&lines=Things+I've+built"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=1&pause=100000&color=1E2A4A&vCenter=true&repeat=false&width=320&height=44&lines=Things+I've+built" alt="Things I've built"/>
+</picture>
 
 | | Project | What it does |
 |:-:|---|---|
@@ -51,7 +60,10 @@ Today I build **detection tools** that read logs, spot attacks and map them to *
 | 🎣 | [**phishing-email-analyzer**](https://github.com/aalsheikh1/phishing-email-analyzer) | Opens suspicious `.eml` files and scores them for phishing indicators. |
 | 🌐 | [**Portfolio**](https://github.com/aalsheikh1/Portfolio) | My personal website, built with Next.js & TypeScript. |
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=1&pause=100000&color=1E2A4A&vCenter=true&repeat=false&width=320&height=44&lines=My+GitHub+in+3D" alt="My GitHub in 3D"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=1&pause=100000&color=C7D2FE&vCenter=true&repeat=false&width=320&height=44&lines=My+GitHub+in+3D"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=28&duration=1&pause=100000&color=1E2A4A&vCenter=true&repeat=false&width=320&height=44&lines=My+GitHub+in+3D" alt="My GitHub in 3D"/>
+</picture>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aalsheikh1/aalsheikh1/main/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D contribution graph"/>
